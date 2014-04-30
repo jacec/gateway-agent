@@ -1,3 +1,7 @@
+/* Example configuration file
+   (c) Jason Croucher 2014
+*/
+
 module.exports.User = "admin";
 module.exports.Pass = "password";
 module.exports.Host = "http://10.0.0.1";
